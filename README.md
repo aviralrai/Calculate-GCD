@@ -1,2 +1,4 @@
 # Calculate-GCD
-Calculate Greatest Common Divisor (GCD) of any given numbers in a single click.
+Calculate Greatest Common Divisor (GCD) of numbers in a single click.
+Used jQuery for DOM, javascript for coding algorithm.
+Fully responsive.
